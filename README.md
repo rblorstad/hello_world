@@ -1,5 +1,4 @@
-# hello_world
-practice (first) repository
+#hello_world
 
 Mr. Blorstad here!
 
